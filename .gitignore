@@ -2,3 +2,7 @@
 .idea/
 .gradle/
 examples/out/
+build/
+src/main/generated
+testData/vulas_diffs
+out_examples/
